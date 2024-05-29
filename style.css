@@ -100,9 +100,11 @@ background-color: #fff;
     font-weight: 600;
 }
 .overlay p {
-    font-style: normal;
-    font-size: 40px;
+   font-style: normal;
+    font-size: 41px;
     color: #fb2469;
+    font-family: 'Poppins
+    
 
 }
 .overlay a {
