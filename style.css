@@ -23,7 +23,7 @@ body {
     color: #fff;
 }
   .bnt_joinus a{
-      margin:0% 0% 0% 20%
+      margin:0% 0% 0% 27%
 }
 
 .header .logo {
@@ -335,7 +335,7 @@ font-weight: bold;
     .button_join {
         position: absolute;
         bottom: 5rem;
-        left: 20.5rem;
+        left: 0;
         padding: 10px 20px;
         text-transform: uppercase;
         background-color: #FB2469;
