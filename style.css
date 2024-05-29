@@ -137,7 +137,9 @@ body {
 .content-section_two {
     position: relative;
     padding: 100px 20px;
-    background: url('./asset/bottombg.png') no-repeat center center fixed;
+    
+    background: url('https://showgirlsbrisbane.com/wp-content/uploads/2024/05/76e6f7_2b61c9862ce14726b0fd965560809083mv2.webp') no-repeat center center fixed;
+   /* background: url('./asset/bottombg.png') no-repeat center center fixed;*/
     background-size: cover;
     color: #fff;
 
