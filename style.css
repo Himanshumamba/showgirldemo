@@ -25,6 +25,11 @@ body {
   .bnt_joinus a{
       margin:0% 0% 0% 27%
 }
+.another{
+background-color: #fff;
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+}
 
 .header .logo {
     align-items: center;
