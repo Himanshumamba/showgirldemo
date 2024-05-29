@@ -22,7 +22,9 @@ body {
     font-weight: 500;
     color: #fff;
 }
-  
+  .bnt_joinus a{
+      margin:0% 0% 0% 20%
+}
 
 .header .logo {
     align-items: center;
