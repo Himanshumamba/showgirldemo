@@ -90,6 +90,7 @@ background-color: #fff;
     background: rgba(0, 0, 0, 0.5);
     font-family: "Domine", serif;
     font-size: 60px;
+    text-transform: uppercase;
     font-weight: 400;
 }
 .overlay h1 {
